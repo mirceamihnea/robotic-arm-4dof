@@ -1,4 +1,4 @@
-# 5-DOF Robotic Arm (ESP32 + PCA9685)
+# 4-DOF Robotic Arm (ESP32 + PCA9685)
 
 A desktop robotic arm — ESP32 driving 5 servos through a PCA9685 PWM controller (base, shoulder, elbow, wrist, gripper).
 
