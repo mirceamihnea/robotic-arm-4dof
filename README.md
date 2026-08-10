@@ -1,5 +1,7 @@
 # 4-DOF Robotic Arm (ESP32 + PCA9685)
 
+[![CI](https://github.com/mirceamihnea/robotic-arm-4dof/actions/workflows/ci.yml/badge.svg)](https://github.com/mirceamihnea/robotic-arm-4dof/actions/workflows/ci.yml)
+
 A desktop robotic arm — ESP32 driving 5 servos through a PCA9685 PWM controller (base, shoulder, elbow, wrist, gripper).
 
 ![Robotic arm on the bench](docs/arm.jpg)
